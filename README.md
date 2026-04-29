@@ -12,8 +12,5 @@ Money Notes App adalah aplikasi pencatatan keuangan yang mencatat pemasukan dan 
 5. Lihat daftar transaksi. Default adalah urut berdasarkan tanggal terbaru.
 6. Melihat pengeluaran dan pemasukan dalam bentuk grafik _pie chart_ sederhana.
 
-## PPT Penjelasan Kode
-
-## Video Demo
-
-## Link Download
+## Selengkapnya di Blogspot
+https://jerijeruk.blogspot.com/2026/04/ets-ppb-money-notes-application.html 
