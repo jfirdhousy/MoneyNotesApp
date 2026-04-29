@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MoneyNotesApp</string>
+    <string name="total_saldo">Total Saldo</string>
+    <string name="saldo_awal">Rp 0</string>
+    <string name="tambah_transaksi">Tambah Transaksi</string>
+    <string name="kategori">Kategori</string>
+    <string name="jenis">Jenis</string>
+    <string name="saldo">Rp 0</string>
+    <string name="simpan">Simpan</string>
+</resources>
