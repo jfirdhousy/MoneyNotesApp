@@ -1,6 +1,5 @@
 Proyek ETS Pemrograman Perangkat Bergerak (B) oleh:
 - Jasmine Firdhousy M. - 5025231051
-- Thalita Aika R.      - 5025231058
 
 # Money Notes App
 Money Notes App adalah aplikasi pencatatan keuangan yang mencatat pemasukan dan pengeluaran harian User, dan memvisualisasikannya dengan _pie chart_.
@@ -12,8 +11,6 @@ Money Notes App adalah aplikasi pencatatan keuangan yang mencatat pemasukan dan 
 4. Menghapus transaksi (klik lama transaksi).
 5. Lihat daftar transaksi. Default adalah urut berdasarkan tanggal terbaru.
 6. Melihat pengeluaran dan pemasukan dalam bentuk grafik _pie chart_ sederhana.
-
-## Screenshot Aplikasi
 
 ## PPT Penjelasan Kode
 
